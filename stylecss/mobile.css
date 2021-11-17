@@ -1,0 +1,48 @@
+@media screen and (min-width: 480px) and (max-width: 600px) {
+      .container{
+            width: 100%;
+            
+      }
+      .uzb button .mmmm{
+            display: block;
+      }
+      .nuqta{
+            display: block;
+      }
+      .navbar-toggler .navbar-light{
+            outline: none;
+      }
+     
+}
+
+
+
+@media screen and (min-width: 600px) and (max-width: 800px) {
+     .container{
+             width: 100%;
+            
+     } 
+     .navbar-toggler .navbar-light{
+      outline: none;
+}
+     .nuqta{
+      display: block;
+}
+     .uzb button .mmmm{
+           display: block;
+     }
+     .kirish p{
+      text-align: center;
+      margin-right: 8px;
+      margin-top: 1px;
+      color: white;
+      font-size: 9pt;
+      padding: 3px 10px;
+}
+.uzb button .mmmm{
+      display: block;
+}
+    
+
+     
+}
